@@ -43,7 +43,7 @@ Tested on:
 ## Release
 You can download the latest release APK here
 
-# Notes/Limitations
+## Notes/Limitations
 * The app **requires AynPath Server** to be running before launch.  
 * Currently tested only on **Android** devices. iOS cannot run this app.  
 * AR features require **ARCore (Android)**.  
