@@ -11,6 +11,9 @@ This app is part of the **AynPath project**:
 - [aynpath-datasets](https://github.com/Ayn-Path/aynpath-datasets) – ORB features datasets  
 - [aynpath-server](https://github.com/Ayn-Path/aynpath-server) – backend for localization
 
+## Screenshot of the App
+<img width="746" height="776" alt="AynPath_Prototype" src="https://github.com/user-attachments/assets/515efdb7-f636-4576-95d9-a29a3edc2573" />
+
 ## Getting Started
 ### Setup
 - [Flutter](https://docs.flutter.dev/get-started/install) (version 3.32.0)
@@ -75,3 +78,5 @@ You can download the latest release APK here
   ```
 
 ## References
+* [Seeing AI](https://www.youtube.com/watch?v=sKMHg1DpTuE)
+* [Article by mobidev](https://mobidev.biz/blog/augmented-reality-indoor-navigation-app-development#h2)
