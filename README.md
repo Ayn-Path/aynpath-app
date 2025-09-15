@@ -79,4 +79,4 @@ You can download the latest release APK here
 
 ## References
 * [Seeing AI](https://www.youtube.com/watch?v=sKMHg1DpTuE)
-* [Article by mobidev](https://mobidev.biz/blog/augmented-reality-indoor-navigation-app-development#h2)
+* [Article](https://mobidev.biz/blog/augmented-reality-indoor-navigation-app-development#h2) by mobidev
