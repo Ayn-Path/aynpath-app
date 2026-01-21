@@ -44,7 +44,7 @@ Tested on:
 * OS: Android 13
 
 ## Release
-You can download the latest release APK here
+You can download the latest release APK [here](https://github.com/Ayn-Path/aynpath-app/releases)
 
 ## Notes/Limitations
 * The app **requires AynPath Server** to be running before launch.  
